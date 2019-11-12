@@ -1,0 +1,19 @@
+.heading {
+    color: #751010;
+}
+
+#heading-one {
+    background-color: #c279df;
+}
+
+#first-para {
+    background-color: #11f778;
+}
+
+#second-para {
+    background-color: rgba(35, 165, 240, 0.5);
+}
+
+.list-item {
+    color: #5d14d3;
+}
